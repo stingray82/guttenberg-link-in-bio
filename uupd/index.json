@@ -3,14 +3,14 @@
     "name": "Guttenberg Link in Bio",
     "version": "1.0",
     "author": "ReallyUsefulPlugins.com",
-    "author_homepage": "https://Reallyusefulplugins.com",
+    "author_homepage": "https://reallyusefulplugins.com",
     "requires_php": "8.0",
     "requires": "6.5",
     "tested": "7.0",
     "sections": {
         "changelog": "<h4>1.0.0 May 2026</h4><ul><li>Initial public release.</li><li>New: Gutenberg block suite</li><li>New: Link page wrapper</li><li>New: Section support</li><li>New: Button support</li><li>New: Social icon support</li><li>New: Full-page background support</li><li>New: FSE compatibility improvements</li><li>New: Responsive typography controls</li><li>New: Responsive alignment controls</li><li>New: Layout presets</li><li>New: Button style presets</li><li>New: Editor-safe link handling</li></ul>"
     },
-    "last_updated": "2026-05-30 08:56:27",
+    "last_updated": "2026-05-30 09:17:41",
     "download_url": "https://github.com/stingray82/guttenberg-link-in-bio/releases/latest/download/guttenberg-link-in-bio.zip",
     "banners": {
         "low": "https://raw.githubusercontent.com/stingray82/guttenberg-link-in-bio/main/uupd/banner-772x250.png",
