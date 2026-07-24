@@ -2,10 +2,10 @@
 /**
  * Plugin Name:       Guttenberg Link in Bio
  * Description:       Build link in bio pages using Gutenberg blocks, sections and social icons.
- * Tested up to:      7.0
+ * Tested up to:      7.0.2
  * Requires at least: 6.5
  * Requires PHP:      8.0
- * Version:           1.0
+ * Version:           1.0.1
  * Author:            ReallyUsefulPlugins.com
  * Author URI:        https://reallyusefulplugins.com
  * License:           GPL-2.0-or-later
@@ -18,7 +18,7 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-define('RUP_GUTTENBERG_LINK_IN_BIO_VERSION', '1.0');
+define('RUP_GUTTENBERG_LINK_IN_BIO_VERSION', '1.0.1');
 define('RUP_GUTTENBERG_LINK_IN_BIO_SLUG', 'guttenberg-link-in-bio');
 define('RUP_GUTTENBERG_LINK_IN_BIO_MAIN_FILE', __FILE__);
 define('RUP_GUTTENBERG_LINK_IN_BIO_DIR', plugin_dir_path(__FILE__));
